@@ -64,5 +64,18 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Amber Therapeutics is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio; backed by nea) and added to the network as a stub for full-pipeline profiling.
-- https://www.amber-tx.com/
+Amber Therapeutics is a biotechnology company focused on developing innovative therapies for metabolic and cardiovascular diseases. Leveraging cutting‑edge gene editing and RNA‑based platforms, Amber aims to create precision medicines that address the underlying causes of disease. The company collaborates with academic institutions and industry partners to advance its pipeline from preclinical research through clinical trials, with a commitment to safety, efficacy, and patient‑centric outcomes. Amber Therapeutics is backed by leading venture investors and operates from its headquarters in Austin, Texas, serving a global research community.
+
+**Areas:** Company · Biotechnology · Gene Editing · RNA Therapeutics · Metabolic Diseases · Cardiovascular
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.amber-tx.com/)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/amber-therapeutics/](https://apis.io/providers/amber-therapeutics/).
